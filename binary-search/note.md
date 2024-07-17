@@ -6,3 +6,5 @@ returns null.
 
 Binary search only works when your list is in sorted order. For example, the names in a phone book are sorted in alphabetical
 order, so you can use binary search to look for a name.
+
+Binary search will return the first element that we're searching even though in the list we have multiple elemnets of what we're searching!

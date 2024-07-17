@@ -24,7 +24,7 @@ function binarySearch(arr, target) {
 	return null;
 }
 
-const list = [1, 3, 5, 7, 9];
+const list = [1, 3, 5, 7, 9, 3];
 
 console.log(binarySearch(list, 3)); // 1
 console.log(binarySearch(list, -1)); // null
