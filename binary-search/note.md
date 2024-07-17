@@ -1,6 +1,6 @@
 # Binary Search
 
-Binary search is an algorithm; its input is a sorted list of elements (I’ll explain later why it needs to be sorted). If an
+Binary search is an algorithm; its input is a sorted list of elements. If an
 element you’re looking for is in that list, binary search returns the position where it’s located. Otherwise, binary search
 returns null.
 
